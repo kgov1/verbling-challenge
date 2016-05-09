@@ -1,4 +1,4 @@
-# verbling-challenge
+# VERBLING CHALLENGE
 
 
 ------------------------------------------
