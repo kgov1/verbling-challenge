@@ -7,6 +7,7 @@
 Getting Started:  
   1. Open Terminal
   2. Type: 
+
      a. npm install
      b. npm install --g gulp browserify
      c. gulp
