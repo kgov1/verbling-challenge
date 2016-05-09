@@ -1,0 +1,38 @@
+.black {
+  color: black; }
+
+.container {
+  padding: 20px 0;
+  margin-top: 20px;
+  width: 90%; }
+
+button {
+  height: 50px;
+  margin-left: 10px; }
+
+.input-group {
+  margin: 10px 10px 0 10px; }
+
+.input-group-addon {
+  margin: 0 10px; }
+
+.input-group, .form-control, .input-group-addon {
+  height: 50px;
+  margin-bottom: 15px; }
+
+.selected-item-container, .selected-item-addon {
+  height: 100px; }
+
+.selected-item-container {
+  padding-top: 5px;
+  background: #f4f4f4;
+  color: orange; }
+
+.selected-item-addon {
+  background-color: orange;
+  color: #f4f4f4;
+  border-color: white; }
+
+.warning-message {
+  float: right;
+  color: red; }
