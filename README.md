@@ -1,14 +1,10 @@
 # verbling-challenge
 
 
-Verbling Challenge - kgov1
-
-
 ------------------------------------------
 
 
-Getting Started: 
-  > gulp
+Getting Started:  > gulp
 
 
 
