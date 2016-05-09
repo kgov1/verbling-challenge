@@ -9,7 +9,9 @@ Getting Started:
   2. Type: 
 
      a. npm install
+     
      b. npm install --g gulp browserify
+     
      c. gulp
 
 
